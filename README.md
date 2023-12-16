@@ -1,12 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07 salesp07" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I am+Brendan+Khow!;" />
-</h1>
-
-
 <h1>Hi, I am Brendan!</h1>
 
 I am a Year 2 Undergraduate studying at Singapore Management University, pursuing a degree in Bachelor of Science (Information Systems).
@@ -14,6 +7,20 @@ I am a Year 2 Undergraduate studying at Singapore Management University, pursuin
 I am passionate about technology and its potential to transform the world, and I am excited to be studying in a field that is at the forefront of this transformation. Throughout my coursework, I have gained a solid foundation in topics such as data management, programming, and systems analysis, and I am constantly seeking new opportunities to expand my knowledge and skills.
 
 If you're interested in connecting with a driven, ambitious student with a passion for technology and innovation, please feel free to reach out. I would be honoured to connect with you and explore potential opportunities.
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="brendankhow | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/logos/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/brendan-khow/
+
+<h2> 🤳 Connect with me:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brendan-khow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:brendankhow@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23333.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://brendankhow.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23333333.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+</p>
 
 
 <!--
