@@ -10,18 +10,11 @@ If you're interested in connecting with a driven, ambitious student with a passi
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="brendankhow | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/logos/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/brendan-khow/
-
-<h2> 🤳 Connect with me:</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brendan-khow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:brendankhow@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23333.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://brendankhow.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23333333.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="mailto:brendankhow@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://brendankhow.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FFA500.svg?&style=for-the-badge&logo=portfolio&logoColor=white"/></a>
 </p>
-
 
 <!--
 **brendankhow/brendankhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
