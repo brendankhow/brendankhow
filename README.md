@@ -13,7 +13,7 @@ If you're interested in connecting with a driven, ambitious student with a passi
 <p align="center">
   <a href="https://www.linkedin.com/in/brendan-khow/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:brendankhow@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://brendankhow.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FFA500.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://brendankhow.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FFA500.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <!--
