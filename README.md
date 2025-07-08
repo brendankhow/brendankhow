@@ -2,7 +2,7 @@
 
 <h1>Hi, I am Brendan!</h1>
 
-I am a Year 2 Undergraduate studying at Singapore Management University, pursuing a degree in Bachelor of Science (Information Systems).
+I am a Year 4 (Graduating in Dec 2025) Undergraduate studying at Singapore Management University, pursuing a degree in Bachelor of Science (Information Systems).
 
 I am passionate about technology and its potential to transform the world, and I am excited to be studying in a field that is at the forefront of this transformation. Throughout my coursework, I have gained a solid foundation in topics such as data management, programming, and systems analysis, and I am constantly seeking new opportunities to expand my knowledge and skills.
 
